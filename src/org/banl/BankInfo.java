@@ -13,6 +13,7 @@ public class BankInfo extends AxisBank {
 		currency.saving();
 		currency.fixed();
 		currency.deposit();
+		currency.cash();
 	}
 
 }
